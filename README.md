@@ -36,7 +36,7 @@ As atividades são pequenas e progressivas, com foco em praticar e consolidar os
 1. Clone este repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone [https://github.com/annacm0/python-fundamentos.git]
    ```
 
 2. Acesse a pasta do projeto:
