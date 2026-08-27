@@ -66,3 +66,4 @@ Durante a execução, o programa solicitará os dados pelo terminal.
 Construir uma base sólida em Python por meio da prática constante, evoluindo de exercícios simples para problemas cada vez mais completos.
 
 Este repositório será atualizado conforme novos assuntos e desafios forem estudados.
+
