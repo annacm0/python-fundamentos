@@ -2,7 +2,7 @@
 
 Repositório criado para registrar minha evolução nos estudos de **Python** durante a formação em Análise e Desenvolvimento de Sistemas.
 
-As atividades são pequenas e progressivas, com foco em praticar a lógica de programação e transformar conceitos em código. Hoje, o repositório reúne 10 exercícios de estruturas condicionais. Novos conteúdos serão adicionados ao longo dos estudos.
+As atividades são pequenas e progressivas, com foco em praticar e consolidar os meus conhecimentos em lógica de programação e transformar conceitos em código. Hoje, o repositório reúne 10 exercícios de estruturas condicionais. Novos conteúdos serão adicionados ao longo das práticas.
 
 ## Conteúdos praticados
 
