@@ -93,10 +93,6 @@ Durante a execução, alguns programas poderão solicitar dados pelo terminal.
 
 ## 📈 Progresso dos estudos
 
-## 📈 Progresso dos estudos
-
-## 📈 Progresso dos estudos
-
 - [x] Estruturas condicionais
 - [x] Laços de repetição (`for` e `while`)
 - [ ] Listas
