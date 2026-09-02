@@ -1,10 +1,10 @@
-# Práticas de Python
+# 🐍 Práticas de Python
 
-Repositório criado para registrar minha evolução nos estudos de **Python** durante a formação em Análise e Desenvolvimento de Sistemas.
+Repositório criado para registrar minha evolução nos estudos de Python durante a formação em Análise e Desenvolvimento de Sistemas.
 
-As atividades são pequenas e progressivas, com foco em praticar e consolidar os meus conhecimentos em lógica de programação e transformar conceitos em código. Hoje, o repositório reúne 10 exercícios de estruturas condicionais. Novos conteúdos serão adicionados ao longo das práticas.
+As atividades são pequenas e progressivas, com foco em praticar e consolidar conhecimentos em lógica de programação e transformar conceitos em código. Atualmente, o repositório reúne exercícios de estruturas condicionais e laços de repetição. Novos conteúdos serão adicionados conforme o avanço dos estudos.
 
-## Conteúdos praticados
+## 📚 Conteúdos praticados
 
 - Entrada de dados com `input()`
 - Conversão de tipos com `int()` e `float()`
@@ -13,57 +13,94 @@ As atividades são pequenas e progressivas, com foco em praticar e consolidar os
 - Operadores lógicos, como `and`
 - Operações matemáticas e cálculos com porcentagem
 - Tomada de decisão baseada em regras
+- Laços de repetição `for` e `while`
+- Uso da função `range()`
+- Iteração sobre listas
+- Controle de fluxo com `break` e `continue`
+- Contadores e acumuladores
 
-## Exercícios atuais
+## 📝 Exercícios atuais
 
-| Arquivo           | Tema                                |
-| ----------------- | ----------------------------------- |
-| `exercicio_01.py` | Comparando vendas de frutas         |
+### Estruturas condicionais
+
+| Arquivo | Tema |
+|---|---|
+| `exercicio_01.py` | Comparando vendas de frutas |
 | `exercicio_02.py` | Calculando o tempo total de projeto |
-| `exercicio_03.py` | Temperatura dos servidores          |
-| `exercicio_04.py` | Calculando o IMC                    |
-| `exercicio_05.py` | Controlando o orçamento mensal      |
-| `exercicio_06.py` | Controle de acesso ao escritório    |
-| `exercicio_07.py` | Classificando estudantes por média  |
-| `exercicio_08.py` | Calculando pedágio                  |
+| `exercicio_03.py` | Temperatura dos servidores |
+| `exercicio_04.py` | Calculando o IMC |
+| `exercicio_05.py` | Controlando o orçamento mensal |
+| `exercicio_06.py` | Controle de acesso ao escritório |
+| `exercicio_07.py` | Classificando estudantes por média |
+| `exercicio_08.py` | Calculando pedágio |
 | `exercicio_09.py` | Verificando a paridade de um número |
-| `exercicio_10.py` | Aprovando empréstimo                |
+| `exercicio_10.py` | Aprovando empréstimo |
 
-## Como executar
+### Laços de repetição — `for` e `while`
+
+| Arquivo | Tema |
+|---|---|
+| `exercicio_01.py` | Percorrendo uma lista de clientes com `for` |
+| `exercicio_02.py` | Evitando loop infinito com `while` |
+| `exercicio_03.py` | Repetições com `for` e `range()` |
+| `exercicio_04.py` | Calculando a soma de valores |
+| `exercicio_05.py` | Organizando projetos em uma lista |
+| `exercicio_06.py` | Interrompendo um laço com `break` |
+| `exercicio_07.py` | Controle de estoque com `while` |
+| `exercicio_08.py` | Contagem regressiva com `range()` |
+| `exercicio_09.py` | Pulando iterações com `continue` |
+| `exercicio_10.py` | Validação de dados de login |
+
+## ▶️ Como executar
 
 É necessário ter o Python 3 instalado.
 
-1. Clone este repositório:
+### 1. Clone este repositório
 
-   ```bash
-   git clone [https://github.com/annacm0/python-fundamentos.git]
-   ```
+```bash
+git clone https://github.com/annacm0/python-fundamentos.git
+```
 
-2. Acesse a pasta do projeto:
+### 2. Acesse a pasta do projeto
 
-   ```bash
-   cd condicionais
-   ```
+```bash
+cd python-fundamentos
+```
 
-3. Execute qualquer exercício:
+### 3. Escolha a pasta dos exercícios
 
-   ```bash
-   python exercicio_01.py
-   ```
+Para acessar os exercícios de estruturas condicionais:
 
-Durante a execução, o programa solicitará os dados pelo terminal.
+```bash
+cd condicionais_py
+```
 
-## Progresso dos estudos
+Para acessar os exercícios de `for` e `while`:
+
+```bash
+cd for_while_py
+```
+
+### 4. Execute o exercício desejado
+
+Por exemplo:
+
+```bash
+python exercicio_01.py
+```
+
+Durante a execução, alguns programas poderão solicitar dados pelo terminal.
+
+## 📈 Progresso dos estudos
 
 - [x] Estruturas condicionais
-- [ ] Laços de repetição
+- [x] Laços de repetição (`for` e `while`)
 - [ ] Funções
-- [ ] Listas
-- [ ] Estruturas de dados e exercícios integradores
+- [ ] Estruturas de dados
+- [ ] Exercícios integradores
 
-## Objetivo
+## 🎯 Objetivo
 
 Construir uma base sólida em Python por meio da prática constante, evoluindo de exercícios simples para problemas cada vez mais completos.
 
 Este repositório será atualizado conforme novos assuntos e desafios forem estudados.
-
