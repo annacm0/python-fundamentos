@@ -93,11 +93,24 @@ Durante a execução, alguns programas poderão solicitar dados pelo terminal.
 
 ## 📈 Progresso dos estudos
 
+## 📈 Progresso dos estudos
+
 - [x] Estruturas condicionais
 - [x] Laços de repetição (`for` e `while`)
+- [ ] Listas
+- [ ] Tuplas, conjuntos e dicionários
 - [ ] Funções
-- [ ] Estruturas de dados
-- [ ] Exercícios integradores
+- [ ] Manipulação de strings
+- [ ] Tratamento de erros e exceções
+- [ ] Leitura e escrita de arquivos
+- [ ] Módulos e pacotes
+- [ ] Programação Orientada a Objetos (POO)
+- [ ] Comprehensions e funções lambda
+- [ ] Manipulação de arquivos CSV e JSON
+- [ ] Consumo de APIs
+- [ ] Ambientes virtuais e bibliotecas externas
+- [ ] Testes em Python
+- [ ] Projetos integradores
 
 ## 🎯 Objetivo
 
