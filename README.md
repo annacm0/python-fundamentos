@@ -2,7 +2,7 @@
 
 Repositório criado para registrar minha evolução nos estudos de Python durante a formação em Análise e Desenvolvimento de Sistemas.
 
-As atividades são pequenas e progressivas, com foco em praticar e consolidar conhecimentos em lógica de programação e transformar conceitos em código. Atualmente, o repositório reúne exercícios de estruturas condicionais e laços de repetição. Novos conteúdos serão adicionados conforme o avanço dos estudos.
+As atividades são pequenas e progressivas, com foco em praticar e consolidar conhecimentos em lógica de programação e transformar conceitos em código. Atualmente, o repositório reúne exercícios de estruturas condicionais, laços de repetição e listas. Novos conteúdos serão adicionados conforme o avanço dos estudos.
 
 ## 📚 Conteúdos praticados
 
@@ -15,9 +15,16 @@ As atividades são pequenas e progressivas, com foco em praticar e consolidar co
 - Tomada de decisão baseada em regras
 - Laços de repetição `for` e `while`
 - Uso da função `range()`
-- Iteração sobre listas
 - Controle de fluxo com `break` e `continue`
 - Contadores e acumuladores
+- Criação e acesso a listas
+- Adição, remoção e alteração de elementos
+- Uso de `append()`, `remove()` e `pop()`
+- Ordenação de listas com `sort()`
+- Uso de `len()`, `min()` e `max()`
+- Verificação de elementos com `in`
+- Iteração e filtragem de elementos em listas
+- Integração de listas com estruturas condicionais e laços de repetição
 
 ## 📝 Exercícios atuais
 
@@ -51,6 +58,21 @@ As atividades são pequenas e progressivas, com foco em praticar e consolidar co
 | `exercicio_09.py` | Pulando iterações com `continue` |
 | `exercicio_10.py` | Validação de dados de login |
 
+### Listas
+
+| Arquivo | Tema |
+|---|---|
+| `exercicio_01.py` | Criando e acessando elementos de uma lista |
+| `exercicio_02.py` | Adicionando elementos com `append()` |
+| `exercicio_03.py` | Removendo elementos com `remove()` |
+| `exercicio_04.py` | Alterando elementos pelo índice |
+| `exercicio_05.py` | Verificando elementos com `in` |
+| `exercicio_06.py` | Ordenando e analisando valores de uma lista |
+| `exercicio_07.py` | Criando e percorrendo uma lista com `for` |
+| `exercicio_08.py` | Filtrando números pares |
+| `exercicio_09.py` | Removendo elementos pelo índice com `pop()` |
+| `exercicio_10.py` | Cadastro de participantes com listas e laços |
+
 ## ▶️ Como executar
 
 É necessário ter o Python 3 instalado.
@@ -81,6 +103,12 @@ Para acessar os exercícios de `for` e `while`:
 cd for_while_py
 ```
 
+Para acessar os exercícios de listas:
+
+```bash
+cd listas_py
+```
+
 ### 4. Execute o exercício desejado
 
 Por exemplo:
@@ -95,7 +123,7 @@ Durante a execução, alguns programas poderão solicitar dados pelo terminal.
 
 - [x] Estruturas condicionais
 - [x] Laços de repetição (`for` e `while`)
-- [ ] Listas
+- [x] Listas
 - [ ] Estruturas de dados (tuplas, conjuntos e dicionários)
 - [ ] Funções
 - [ ] Manipulação de strings
